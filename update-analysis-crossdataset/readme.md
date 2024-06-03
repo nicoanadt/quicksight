@@ -50,4 +50,5 @@ This script is designed to update the analysis definitions in AWS QuickSight. Th
 
 
 
-### References: https://boto3.amazonaws.com/v1/documentation/api/1.26.82/reference/services/quicksight/client/describe_analysis_definition.html
+### References: 
+https://boto3.amazonaws.com/v1/documentation/api/1.26.82/reference/services/quicksight/client/describe_analysis_definition.html
