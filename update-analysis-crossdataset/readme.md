@@ -46,3 +46,8 @@ This script is designed to update the analysis definitions in AWS QuickSight. Th
 
 - Input: The script expects the updated analysis definitions to be stored in the `quicksight_analysis_definitions_updated` folder. The filenames should be in the format `<analysis_id>_<analysis_name>.json`
 - Output: The script updates the corresponding analyses in AWS QuickSight and writes the update logs to the `quicksight_update_log` folder.
+
+
+
+
+### References: https://boto3.amazonaws.com/v1/documentation/api/1.26.82/reference/services/quicksight/client/describe_analysis_definition.html
